@@ -1,1 +1,1 @@
-“my second commit”
+“A ALX git project”
